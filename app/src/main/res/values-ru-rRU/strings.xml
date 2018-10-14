@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Упражнение 1</string>
+
+    <!--Main screen-->
+    <string name="main_type_your_message_here">Введите свое сообщение сюда</string>
+    <string name="main_preview">Превью</string>
+
+    <!--Preview screen-->
+    <string name="preview_email">Отправить письмо</string>
+    <string name="preview_hello_android_academy">Привет, Академия Android МСК!</string>
+    <string name="preview_send_email">Отправить письмо</string>
+
+    <!--Errors-->
+    <string name="errors_no_email_app">Не найдено приложения для электронной почты</string>
+</resources>

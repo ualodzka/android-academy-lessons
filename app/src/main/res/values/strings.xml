@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">Android Academy Lessons</string>
+    <string name="app_name">Exercise 1</string>
+
+    <!--Main screen-->
+    <string name="main_type_your_message_here">Type your message here</string>
+    <string name="main_preview">Preview</string>
+
+    <!--//Preview screen-->
+    <string name="preview_email">Email</string>
+    <string name="preview_my_email_address" translatable="false">v.lezhnevich@gmail.com</string>
+    <string name="preview_android_academy_email_address" translatable="false">andr.academy.msk@gmail.com</string>
+    <string name="preview_hello_android_academy">Hello, Android Academy MSK!</string>
+    <string name="preview_send_email">Send Email</string>
+
+    <!--Errors-->
+    <string name="errors_no_email_app">No Email app found</string>
 </resources>
