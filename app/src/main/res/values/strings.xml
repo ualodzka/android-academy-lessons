@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Android Academy Lessons</string>
+    <string name="app_name">SpongeBob SquarePants</string>
+    <string name="french_fries_cook">Senior French Fries Cook @ Krusty Crab</string>
+    <string name="pro_bubble_blower">Pro bubble blower</string>
+    <string name="main_info">A square yellow sponge named SpongeBob SquarePants lives in a pineapple with his pet snail, Gary, in the city of Bikini Bottom on the floor of the Pacific Ocean. He works as a fry cook at the Krusty Krab. During his time off, SpongeBob has a knack for attracting trouble with his starfish best friend, Patrick. Arrogant octopus Squidward Tentacles, SpongeBob\'s neighbor, dislikes SpongeBob because of his childlike behavior.</string>
+
 </resources>
