@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Спанч Боб Квадратные Штаны</string>
+    <string name="french_fries_cook">Повар покартофелю фри</string>
+    <string name="pro_bubble_blower">Специалист по надуванию пузырей</string>
+    <string name="main_info">Губка Боб Квадратные Штаны - главный герой американского одноимённого мультипликационного сериала премьера которого состоялась 1 мая 1999 года на канале Никэлодэон. Персонаж был придуман морским биологом и аниматором Стивеном Хилленбергом и озвучен актёром Томасом Кенни. В России также исвестен как Спанч Боб Сквэр Пэнтс. Судя по сведениям из его паспорта он родился 14 июля 1986 года, значит на момент начала трансляции мультсериала - Губке Бобу было около 13 лет.</string>
+    <string name="main_type_your_message_here">Введите свое сообщение сюда</string>
+    <string name="main_preview">Превью</string>
+    <string name="preview_email">Отправить письмо</string>
+    <string name="preview_hello_android_academy">Привет, Академия Android МСК!</string>
+    <string name="preview_send_email">Отправить письмо</string>
+
+    <!--Errors-->
+    <string name="errors_no_email_app">Не найдено приложения для электронной почты</string>
+</resources>

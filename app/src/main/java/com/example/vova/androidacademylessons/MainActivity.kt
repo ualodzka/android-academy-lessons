@@ -24,8 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         }
         sendMessageButton.setOnClickListener {
-            //           val message = sendMessageEditText.text.toString()
-//           val intent = Intent()
+            PreviewActivity.start(this, sendMessageEditText.text.toString())
         }
     }
 
