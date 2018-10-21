@@ -1,1 +1,3 @@
-# android-academy-lessons
+# Android Academy Homework
+
+Домашнее задание для Android Academy
